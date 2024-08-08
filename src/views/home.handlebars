@@ -1,0 +1,14 @@
+<h1>Shop Products</h1>
+<hr>
+
+  {{#each products}}
+    <h3>{{this.title}}</h3>
+    <p>
+      <i>{{this.description}}</i>
+      <br />
+      <b>$ {{this.price}}</b>
+    </p>
+    <button>Buy</button>
+    <hr>
+  {{/each}}
+</aside>

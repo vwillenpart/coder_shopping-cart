@@ -109,7 +109,7 @@ class ProductManager {
             const productIndex = existingProducts.findIndex(product => product.id == productID);
 
             if(productIndex !== -1) {
-                existingProducts.splice(index, 1); 
+                existingProducts.splice(productIndex, 1); 
                 await this.saveProducts(existingProducts); 
                 console.log(`Product with ID: ${productID} deleted successfully.`); 
             } else {

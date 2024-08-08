@@ -1,1 +1,68 @@
-[]
+[
+  {
+    "id": 5,
+    "title": "Gold Ring",
+    "description": "made with pure gold",
+    "price": 2500,
+    "thumbnails": [
+      "https://unsplash.com/photos/a-womans-hand-resting-on-a-pair-of-jeans--DvDt18CnSw"
+    ],
+    "code": "C005",
+    "stock": 15
+  },
+  {
+    "id": 6,
+    "title": "Diamond Ring",
+    "description": "made with pure gold and diamond",
+    "price": 5000,
+    "thumbnails": [
+      "https://unsplash.com/photos/a-womans-hand-resting-on-a-pair-of-jeans--DvDt18CnSw"
+    ],
+    "code": "C006",
+    "stock": 3
+  },
+  {
+    "id": 7,
+    "title": "Sapphire Ring",
+    "description": "made with pure gold and sapphire",
+    "price": 4500,
+    "thumbnails": [
+      "https://unsplash.com/photos/a-womans-hand-resting-on-a-pair-of-jeans--DvDt18CnSw"
+    ],
+    "code": "C007",
+    "stock": 2
+  },
+  {
+    "id": 8,
+    "title": "Emerald Ring",
+    "description": "made with pure gold and emerald",
+    "price": 4000,
+    "thumbnails": [
+      "https://unsplash.com/photos/a-womans-hand-resting-on-a-pair-of-jeans--DvDt18CnSw"
+    ],
+    "code": "C008",
+    "stock": 1
+  },
+  {
+    "id": 9,
+    "title": "Ruby Ring",
+    "description": "made with pure gold and ruby",
+    "price": 3500,
+    "thumbnails": [
+      "https://unsplash.com/photos/a-womans-hand-resting-on-a-pair-of-jeans--DvDt18CnSw"
+    ],
+    "code": "C009",
+    "stock": 4
+  },
+  {
+    "id": 10,
+    "title": "Pearl Ring",
+    "description": "made with pure gold and pearl",
+    "price": 3200,
+    "thumbnails": [
+      "https://unsplash.com/photos/a-womans-hand-resting-on-a-pair-of-jeans--DvDt18CnSw"
+    ],
+    "code": "C010",
+    "stock": 6
+  }
+]
